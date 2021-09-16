@@ -1,2 +1,2 @@
 # TodoWebApp
-A simple todo web application
+A simple todo web application on localhost

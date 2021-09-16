@@ -1,0 +1,22 @@
+.hidden {
+    visibility: hidden;
+  }
+
+[class$='-icon'] {
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 30px;
+  width: 30px;
+  margin: 0px 10px 0px 10px;
+  cursor: pointer;
+}
+
+.delete-icon {
+  background-size: 90%;
+  border-radius: 50%;
+}
+
+[class$='-icon']:hover {
+  background-color: darkgray;
+}
